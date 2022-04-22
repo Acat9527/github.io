@@ -1,19 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://web.gridea.dev/</id>
+    <id>https://acat9527.github.io</id>
     <title>Gridea</title>
-    <updated>2022-04-22T03:31:25.872Z</updated>
+    <updated>2022-04-22T03:43:01.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://web.gridea.dev/"/>
-    <link rel="self" href="https://https://web.gridea.dev/atom.xml"/>
+    <link rel="alternate" href="https://acat9527.github.io"/>
+    <link rel="self" href="https://acat9527.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://web.gridea.dev/images/avatar.png</logo>
-    <icon>https://https://web.gridea.dev/favicon.ico</icon>
+    <logo>https://acat9527.github.io/images/avatar.png</logo>
+    <icon>https://acat9527.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
+        <title type="html"><![CDATA[文档撰写培训]]></title>
+        <id>https://acat9527.github.io/post/wen-dang-zhuan-xie-pei-xun/</id>
+        <link href="https://acat9527.github.io/post/wen-dang-zhuan-xie-pei-xun/">
+        </link>
+        <updated>2022-04-22T03:32:12.000Z</updated>
+        <content type="html"><![CDATA[<p>主题概念<br>
+文档内容<br>
+细节配置<br>
+文档模板</p>
+<p>文档撰写模仿<br>
+文档内容修改<br>
+文档主题思考<br>
+需求内容创造</p>
+<p>文档类型<br>
+安全建设方案<br>
+产品型 服务型 混合型<br>
+*xx安全建设方案 ：售前拜访客户后写建设方案-项目初期需求建设方案-销售拜访完后提出明确需求并写建设方案<br>
+*明确需求（客户核心需求）-积极沟通（了解方案需求特殊细节（客户估值预算等））-专业知识（明确方案技术需求）-绘制拓扑（产品部署方式）</p>
+<p>1.项目简介（技术依据，设计原则，经济社会效益） 2.需求分析（现状分析，安全威胁分析（对应产品提出产品需求）） 3.建设方案（网络拓扑，方案说明，需求-方案对照表，产品清单） 4. 安全产品介绍/安全服务介绍(详细服务介绍) 5.项目实施管理  6.公司概述</p>
+<p>投标书<br>
+产品型投标书 服务型投标书 混合型投标书        陪标书（技术部分） 招标书 (技术部分)<br>
+*xx项目投标方案：销售与客户洽谈后需要我方撰写，销售发现招标机会后需要我方撰写（大型公司会采用招投标方式让数个安全服务商进行投标筛选（至少3家公司））<br>
+*什么性质的投标（投标（陪标）还是围标（抢标））-仔细阅读（发现需求中的陷阱）-积极应答（满足客户的全部要求）-提高警惕（围标也需认真对待（有可能他人抢标或被废标需重新投标））</p>
+<p>等保方案<br>
+等保咨询方案 等保建设方案 等保整改方案 预测评报告</p>
+<p>其他类<br>
+工作说明书 烟草文档 其他类</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://web.gridea.dev/post/hello-gridea/</id>
-        <link href="https://https://web.gridea.dev/post/hello-gridea/">
+        <id>https://acat9527.github.io/post/hello-gridea/</id>
+        <link href="https://acat9527.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
